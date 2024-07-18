@@ -2,7 +2,7 @@
 CREATE TABLE cohabitants (
     id varchar(100) primary key,
     name varchar(200) not null,
-    email varchar(200) not null
+    email varchar(200)
 
 )
 
